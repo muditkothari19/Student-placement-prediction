@@ -26,5 +26,5 @@ sklearn==0.0
 threadpoolctl==3.1.0
 Werkzeug==2.2.2
 zipp==3.8.1
-py -m pip install --upgrade pip
+pip install --upgrade pip
 pip install python
